@@ -1,0 +1,13 @@
+E:\Game Online\Project Bot\Autobot\Autobot\bin\Debug\Autobot.exe
+E:\Game Online\Project Bot\Autobot\Autobot\bin\Debug\Autobot.pdb
+E:\Game Online\Project Bot\Autobot\Autobot\bin\Debug\MetroFramework.Design.dll
+E:\Game Online\Project Bot\Autobot\Autobot\bin\Debug\MetroFramework.dll
+E:\Game Online\Project Bot\Autobot\Autobot\bin\Debug\MetroFramework.Fonts.dll
+E:\Game Online\Project Bot\Autobot\Autobot\obj\Debug\Autobot.csprojResolveAssemblyReference.cache
+E:\Game Online\Project Bot\Autobot\Autobot\obj\Debug\Interop.AutoItX3Lib.dll
+E:\Game Online\Project Bot\Autobot\Autobot\obj\Debug\Autobot.csproj.ResolveComReference.cache
+E:\Game Online\Project Bot\Autobot\Autobot\obj\Debug\Autobot.Form1.resources
+E:\Game Online\Project Bot\Autobot\Autobot\obj\Debug\Autobot.Properties.Resources.resources
+E:\Game Online\Project Bot\Autobot\Autobot\obj\Debug\Autobot.csproj.GenerateResource.Cache
+E:\Game Online\Project Bot\Autobot\Autobot\obj\Debug\Autobot.exe
+E:\Game Online\Project Bot\Autobot\Autobot\obj\Debug\Autobot.pdb
